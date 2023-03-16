@@ -9,7 +9,9 @@
 
 1. Clone the repo
 
-- git clone https://github.com/coderedwood/python-devcontainer-template.git
+```
+   git clone https://github.com/coderedwood/python-devcontainer-template.git
+```
 
 2. Open the folder in VSCode
 3. Install DevContainer Extensions
